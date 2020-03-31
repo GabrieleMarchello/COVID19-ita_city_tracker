@@ -7,7 +7,7 @@ The script is based on the data registered by the Protezione Civile that are dai
 The MATLAB script has to be in the same folder together with the downloaded data. 
 The user has only to type in the name of the Italian city, and the script will plot a figure with two graphs: the number of total cases and the number of daily increments. 
 
-![](/Bergamo.tif) 
+![](images/Bergamo.tif) 
 
 Hope this may help! 
 
