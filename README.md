@@ -1,5 +1,5 @@
 # COVID19-ita_city_tracker
-A very easy-to-tun MATLAB script to plot and display the COVID19 diagnoses any Italian city
+A very easy-to-tun MATLAB script to plot and display the COVID19 diagnoses in any Italian city
 
 This GitHub contains a MATLAB script that can be used to visualise the COVID19 diagnoses registered every day in Italy.
 The script is based on the data registered by the Protezione Civile that are daily updated and available at this link https://github.com/pcm-dpc/COVID-19
